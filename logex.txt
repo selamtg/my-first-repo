@@ -1,0 +1,17 @@
+commit 9e9166b0b0fb460d44e476f533c6268b537c402d
+Author: selamtg <ghebruselam@gmail.com>
+Date:   Sat Apr 6 12:54:22 2019 -0400
+
+    added gitignore
+
+commit dea02db50d76156cda625ffd96f24d8ced0b5396
+Author: selamtg <ghebruselam@gmail.com>
+Date:   Sat Apr 6 12:03:05 2019 -0400
+
+    added two files
+
+commit 52112b57b9662da3a0804b66d15af5979d350bc6
+Author: selamtg <ghebruselam@gmail.com>
+Date:   Sat Apr 6 11:46:00 2019 -0400
+
+    added readme.txt
